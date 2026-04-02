@@ -20,14 +20,13 @@ I am currently evolving my technical toolkit to complement my leadership backgro
 * **Domain Expertise:** EdTech CMS (SchoolMessenger Presence), Web Accessibility, and Public-Facing Digital Products.
 
 ### 📂 Portfolio Projects
-* **[BDD & Gherkin Scenarios](./link-to-repo):** Practical application of Gherkin for complex E-commerce and CMS workflows.
-* **[API Testing Documentation](./link-to-repo):** Structured Postman collections for public API testing.
-* **[Quality Strategy & Process](./link-to-repo):** Sample test plans and process improvements for Agile teams.
+* **[Professional QA Portfolio](https://github.com/mads-ang/Professional-QA-Portfolio):** My main repository for quality strategy, API documentation, and process improvement templates.
+* **[E-commerce BDD Scenarios](https://github.com/mads-ang/Professional-QA-Portfolio/tree/main/E-commerce):** Practical application of Gherkin scenarios for the Sauce Labs (Swag Labs) e-commerce workflow.
 
 ---
 
 ### 📫 Let's Connect
-I am open to discussing Senior QA Lead, Product Owner, or Project Management opportunities.
+I am open to discussing Senior QA, QA Lead, Junior Product Owner, or Junior Project Management opportunities.
 
 * **LinkedIn:** [linkedin.com/in/AngMary](https://www.linkedin.com/in/angmary)
 * **Location:** Toronto, ON, Canada 🇨🇦
