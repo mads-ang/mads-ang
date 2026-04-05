@@ -23,6 +23,7 @@ I am currently evolving my technical toolkit to complement my leadership backgro
 * **[Professional QA Portfolio](https://github.com/mads-ang/Professional-QA-Portfolio):** My main repository for quality strategy, API documentation, and process improvement templates.
 * **[E-commerce BDD Scenarios](https://github.com/mads-ang/Professional-QA-Portfolio/tree/main/E-commerce):** Practical application of Gherkin scenarios for the Sauce Labs (Swag Labs) e-commerce workflow.
 * **[SQL Data Validation & Auditing](https://github.com/mads-ang/Professional-QA-Portfolio/tree/main/SQL-Validation):** SQL queries for verifying data integrity, backend reconciliation, and database-to-UI validation.
+* **[API-Testing](https://github.com/mads-ang/Professional-QA-Portfolio/tree/main/API-Testing):** Functional REST API validation using Postman and Gherkin scenarios for a simulated User Registry.
 
 ---
 
